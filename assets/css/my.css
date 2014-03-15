@@ -1,0 +1,24 @@
+/* 
+    Document   : my
+    Created on : 29-Dec-2013, 05:11:26
+    Author     : seosamh
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.col-xs-1{
+    word-wrap:break-word;
+}
+
+.col-md-1{
+    word-wrap:break-word;
+}
+
+.media-object{
+    max-width: 400px;
+    max-height: 400px;
+}
